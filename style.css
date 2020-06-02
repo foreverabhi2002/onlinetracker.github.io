@@ -1,0 +1,32 @@
+body
+{
+	background:steelblue;
+}
+
+.stat
+{
+	background:#121212;
+	padding-top:80px;
+	padding-bottom:80px;
+	color:white;
+	background-attachment:fixed;
+	margin-top:210px;
+}
+
+.stat
+{
+	font-size:30px;
+}
+
+.stat-items h2
+{
+	font-weight:bold;
+	font-size:42px;
+	color:darkorange;
+}
+
+.stat p
+{
+	font-weight:bold;
+	letter-spacing:1px;
+}
